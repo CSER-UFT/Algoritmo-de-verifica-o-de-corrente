@@ -4,13 +4,13 @@ Repositório do projeto de PIBIC desenvolvido na UFT, com foco na análise do im
 
 ## Estrutura do Repositório
 
-├── matriz_normal/ # Código C++ para o Raspberry Pi Pico 2W
+matriz_normal/ # Código C++ para o Raspberry Pi Pico 2W
 
-│ ├── src/ # Código fonte principal
+py/ # Scripts Python para coleta e análise
 
-│ └── py/ # Scripts Python para coleta e análise
+Esp82/ # Código Arduino para o NodeMCU ESP8266
 
-└── Esp82/ # Código Arduino para o NodeMCU ESP8266
+Dados gerados após a execução dos códigos
 
 
 ## Hardware Necessário
