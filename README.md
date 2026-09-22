@@ -3,10 +3,13 @@
 Repositório do projeto de PIBIC desenvolvido na UFT, com foco na análise do impacto da técnica de aproximação de código *Loop Perforation* no consumo energético de dispositivos IoT.
 
 ## Estrutura do Repositório
-/
+
 ├── matriz_normal/ # Código C++ para o Raspberry Pi Pico 2W
+
 │ ├── src/ # Código fonte principal
+
 │ └── py/ # Scripts Python para coleta e análise
+
 └── Esp82/ # Código Arduino para o NodeMCU ESP8266
 
 
